@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlämningsuppgift 1 - EditImages", "Inlämningsuppgift 1 - EditImages\Inlämningsuppgift 1 - EditImages.csproj", "{36286E26-EF45-4B00-97D7-91C04802DF23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditImages Console", "Inlämningsuppgift 1 - EditImages\EditImages Console.csproj", "{36286E26-EF45-4B00-97D7-91C04802DF23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{487B2477-83AC-4E93-88C8-3C4C1DF22AEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{487B2477-83AC-4E93-88C8-3C4C1DF22AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAllTheThings", "TestAllTheThings\TestAllTheThings.csproj", "{30EA7543-5DE7-45A8-BD16-2C3785866752}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAllTheThings", "TestAllTheThings\TestAllTheThings.csproj", "{30EA7543-5DE7-45A8-BD16-2C3785866752}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditImages Form", "EditImages Form\EditImages Form.csproj", "{DE2C1AE8-4415-48F1-974D-1F58A4771C67}"
 EndProject
